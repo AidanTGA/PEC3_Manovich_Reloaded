@@ -1,5 +1,9 @@
 # PEC3_Manovich_Reloaded
+
 ### PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+
+27/05/2024 
+Creado y redactado por Aidan Tyr García Alonso
 
 Nuestro tema de hoy habla sobre **la hibridación**, en comparativa con otros modos de evolución y cambio de la tecnología del software.
 
