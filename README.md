@@ -1,5 +1,5 @@
 # PEC3_Manovich_Reloaded
-##PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+### PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 Nuestro tema de hoy habla sobre la hibridacion, en comparativa con otros modos de evolucion y cambio de la tecnologia del software.
 
 Si hacemos un ejercicio de empatía y afrontamos este proyecto bajo las gafas de Manovich, encontraremos reflexiones sumamente interesantes sobre la hibridación. Este ejercicio de reflexión constará de dos revisiones de productos de software que van más allá de la multimedia tradicional y que sin duda son una expresión de las nuevas formas de comunicación que nos mostraba Manovich hace más o menos diez años.
